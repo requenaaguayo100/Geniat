@@ -1,5 +1,9 @@
-END POINT CONFIGURADO EN XAMPP: http://localhost/ExamenGeniat/controller/API.php
 
+-PRIMERAMENTE SE TIENE QUE crear LA BD data_publish y posteriormente ejecutar el SQL
+-copiar la carpeta ExamenGeniat a htdocs para poder consumir la api.
+-las pruebas se realizaron en Postman!.
+
+END POINT CONFIGURADO EN XAMPP: http://localhost/ExamenGeniat/controller/API.php
 -TODOS LOS REQUEST SE TIENEN QUE METER EN BODY "RAW"
 -CUANTO SE TRABAJE CON EL TOKEN SE DEBERA PONER EN Authorization -> Bearer Token
 -SE HABILITO EL USUARIO master@gmail.com CON  PASS master para hacer las pruebas.
