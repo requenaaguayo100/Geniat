@@ -4,7 +4,7 @@ require_once '../vendor/autoload.php';
 
 
 $oStored_model = new Stored_model();
-
+ 
 
 $contErrorIni = 0;
 $contentType = isset($_SERVER["CONTENT_TYPE"]) ? trim($_SERVER["CONTENT_TYPE"]) : '';
